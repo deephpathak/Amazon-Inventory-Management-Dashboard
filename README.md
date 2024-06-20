@@ -1,4 +1,6 @@
 Amazon Inventory Management Dashboard
+
+
 This dashboard provides a comprehensive overview of your Amazon inventory, sales performance, and key metrics, empowering you to make informed decisions and optimize your business strategies.
 
 Key Features:
